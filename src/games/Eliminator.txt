@@ -1,0 +1,26 @@
+ELIMINATOR
+
+
+Para carregar digite: LOADT <RETURN>
+
+
+Aperte "T" para usar o teclado e "P" para utilizar Paddles.
+Utilize a barra de espaço para modificar o nível de dificuldade do jogo.
+
+Comandos:
+
+RETURN:		Para jogar
+
+Seta Direita:	Acelera
+FIRE:		Atirar
+seta Cima:	para cima
+seta Baixo:	para baixo
+L:		inverte sentido da nave
+
+Ou joystick para se movimentar
+
+
+Boa diversão !!
+
+[]s
+Fabri

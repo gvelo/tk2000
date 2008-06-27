@@ -1,0 +1,13 @@
+BUG ATTACK
+
+Para carregar use LOADT
+Aperte "K" para iniciar
+
+Tecle "Q" para Direita
+Tecle "W" para Esquerda
+Tecle FIRE para atirar.
+
+  
+[]s
+Fabri
+ 

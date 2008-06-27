@@ -1,0 +1,17 @@
+ATENÇÃO:
+
+Para rodar Gobbler digite:
+
+LM (return)
+
+Depois: R (return)
+
+Aperte Play e aguarde...
+
+Quando aparecer:
+
+GOBB 50 50 WAIT OK
+
+Digite: 4D60G (return)
+
+O jogo irá entrar automáticamente.

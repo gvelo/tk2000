@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project basedir="." default="build" name="TK2000">
+
+	<target name="build" description="Compile and create the jars">
+
+		<mkdir dir="build" />
+
+		<copy todir="build" >
+			<fileset dir="src">
+				<exclude name="**/*.java" />
+			</fileset>
+		</copy>
+
+		<javac deprecation="true" destdir="build" srcdir="src" target="1.5" >
+		</javac>
+
+		<jar jarfile="TK2000.jar" basedir="build">
+			<manifest>
+				<attribute name="Main-Class" value="TK2000" />
+			</manifest>
+		</jar>
+
+	</target>
+
+
+	<target name="clean" description="Clean the build">
+		<delete dir="build" />
+		<delete file="TK2000.jar" />
+	</target>
+
+</project>

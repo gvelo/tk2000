@@ -1,0 +1,20 @@
+SWASHBUCKLER:
+
+Para carregar digite: LOADT <RETURN>
+
+A:     	 Mover-se p/ esquerda
+D:     	 Mover-se p/ direita
+S:	 Trocar espada de mão
+J:	 Apontar espada
+K:	 Vltar espada
+L:	 Touche
+I:	 Levantar espada
+M:	 baixar espada
+
+obs: O reabastecimento ocorre ao encontrar a nave mãe.
+
+
+Boa diversão !!
+
+[]s
+Fabri

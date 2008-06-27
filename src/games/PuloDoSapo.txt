@@ -1,0 +1,12 @@
+PULO DO SAPO
+
+
+Para carregar digite: LOADT <RETURN>
+
+<FIRE> para iniciar o jogo.
+<SETAS> para movimentar
+
+Boa diversão !!
+
+[]s
+Fabri

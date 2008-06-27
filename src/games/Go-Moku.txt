@@ -1,0 +1,11 @@
+GO-MOKU
+
+
+Para carregar digite: LOADT <RETURN>
+
+<SETAS> DIREITA E ESQUERDA para movimentar
+
+Boa diversão !!
+
+[]s
+Fabri

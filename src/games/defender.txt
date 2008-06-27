@@ -1,0 +1,18 @@
+DEFENDER:
+
+Para carregar digite: LOADT <RETURN>
+
+ESPAÇO: 	 Atirar
+A:      	 Move nave p/ cima
+B:       	 Move nave p/ baixo
+Seta Esquerda	 Move nave p/ esquerda
+Seta Direita:	 move nave p/ direita
+B:		 Reabastecer
+
+obs: O reabastecimento ocorre ao encontrar a nave mãe.
+
+
+Boa diversão !!
+
+[]s
+Fabri

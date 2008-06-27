@@ -1,0 +1,28 @@
+XADREZ
+
+Após o carregamento, defina o nível de dificuldade, teclando IQ= número de 1 a 8 e RETURN.
+
+Você jogará com as pedras brancas, a menos que tecle X<RETURN> para inverter o tabuleiro.
+Tecle P<RETURN> para que o computador faça a primeira jogada.
+Caso não saiba as coordenadas das casas, tecle apenas <RETURN>
+
+Exemplo: para movimentar o peão da dama para a casa da frente, digite: d2d4 <RETURN>
+
+Caso você indique uma vogada inválida, ouvirá dois BEEPS.
+
+
+RESUMO DOS CONTROLES:
+
+R - Reinicia o jogo ( nivel de dificuldade vai para 8 )
+IQ- Escolhe o nível de dificuldade de 1 a 8
+X - Inverte o tabuleiro
+P - Pede ao computador que faça uma jogada
+N - Pede as coodenadas das casas
+
+letra No letra No - Para deslocar uma peça.
+
+BOA SORTE !!!!!
+  
+[]s
+Fabri
+ 

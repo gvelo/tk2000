@@ -1,0 +1,14 @@
+Emulador TK2000.
+
+Memory map:
+===========
+
+0000 ------ Inicio de la RAM.
+C000 ------ Inicio de la ROM/RAM ( la pagina entre C000 y C100 son todas IO ).
+C090 ------ comienzo IO para el slot.
+C0A0------- fin IO slot.
+C100------- Comienzo firmware slot ( si no esta el slot es RAM o ROM )
+C200------- Comienzo de la ROM/RAM
+FFFF------- End.
+
+

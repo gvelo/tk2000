@@ -1,0 +1,57 @@
+NORAD
+=====
+
+O sistema de Defesa Norte-Americano (NORAD) necessita de sua habilidade para salvar o país
+de um devastador ataque nuclear.
+Você deve comandar 10 bases que lançam foguetes e guiá-los para que interceptem os mísseis
+inimigos.
+
+Detono seu foguete e a explosão destruirá o peojetil que estiver próximo a ele.
+Cada base pode efetuar até três lançamentos, de um ou dois foguetes, sendo que um está
+sob seu comando e o outro com tragetória fixa.
+
+As cidades que permanecerem intactas após o bombardeiro reabastecerão as bases para três
+novos lançamentos. Porém, se forem semidestruídas, só fornecerão armamento um ou dois
+lançamentos.
+
+Você pode ootar pelos postos de Cadete, Instrutor ou Comandante. Se achar que pode assumir
+um posto mais alto ainda, ao invés de selecionar o número correspondente a um dos três
+primeiros postos, pressione as teclas <CONTROL> <D> simultaneamente. neste caso, o nível de
+dificuldade do jogo se torna altíssimo e você terá que mostrar toda sua garra para comandar
+o NORAD.
+Faça o melhor que puder. O destino de uma nação depende de você.
+
+
+O JOGO
+= ==== 
+
+Após o programa ter sido carregado, será apresentada uma demonstração do jogo.
+Pressione <RETURN>, para obter o quadro de opções de posto. Feita a opção, o jogo inicia
+presentando a mensagem "ATAQUE EMINENTE". Significa que você deve entrar em ação e comandar
+o NORAD para uma defesa rápida e eficiente.
+
+Lance seus foguetes e destrua os mísseis nucleares. Cada míssil destruido vale pontos que 
+aparecem no PLACAR. Você pode obter bônus em forma de pontos ou na forma de uma potente base
+de lançamento denominada MX. Ela é ainda mais poderosa que as outras bases pois você pode
+movimentá-la estrategicamente.
+
+COMANDOS DO NORAD:
+
+- Os números de 0 a 9 lançam os foguetes das respectivas bases
+- As setas direita e esquerda do teclado controlam a direção
+- A tecla <FIRE> é o detonador que explode o foguete
+- <CONTROL> <S> liga ou desliga os efeitos sonoros
+- <CONTROL> <B> reabastece as bases a qualquer momento, mudando automaticamente de fase
+- <CONTROL> <P> enquanto pressionadas paralizam a jogada
+- <CONTROL> <X> cancela a partida reiniciando o jogo
+- A vírgula (,) move a base do MX para a esquerda
+- A barra de espaço move a base do MX para a direita
+- Os dois pontos (:) disparam o foguete da base MX
+- Pode ser usado um JOYSTICK para controlar a direção e a explosão dos foguetes
+
+Boa diversão !
+
+  
+[]s
+Fabri
+ 

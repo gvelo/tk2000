@@ -1,0 +1,15 @@
+DESAFIO FATAL
+
+
+Para carregar digite: LM <RETURN>
+		      R  <RETURN>
+
+Depois para rodar: 8700G <RETURN>
+
+Use as setas ou joystick para se movimentar. As teclas "A" e "Z"
+substituem as setas cima/baixo. Use <RETURN> para começar.
+
+Boa diversão !!
+
+[]s
+Fabri

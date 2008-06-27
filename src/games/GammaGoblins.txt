@@ -1,0 +1,14 @@
+COMO CARREGAR:
+
+Dê o comando: LOADT <RETURN>
+O jogo entrará automaticamente.
+
+
+Seta Direita:   Move nave p/ direita
+Seta Esquerda:  move nave p/ esquerda
+Fire:		Atira
+
+
+
+[]s
+Fabri

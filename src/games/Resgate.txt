@@ -1,0 +1,18 @@
+RESGATE
+
+Para carregar use LOADT
+Aperte ESPAÇO para iniciar
+
+Teclas para movimentar:
+
+   T  Y  U
+   G  +  J
+   B  N  M
+
+ESPACO - para atirar.
+CONTROL-R muda a dificuldade de 1 a 8
+
+
+[]s
+Fabri
+ 

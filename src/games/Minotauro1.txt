@@ -1,0 +1,15 @@
+MINOTAURO: PARTE A - INSTRUÇÕES
+
+
+Para carregar digite: LOADT <RETURN>
+
+Depois digite RUN e tecle <RETURN>
+
+Siga as instruções e depois o programa pede para passar a parte B.
+
+
+
+Boa diversão !!
+
+[]s
+Fabri

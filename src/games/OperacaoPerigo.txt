@@ -1,0 +1,19 @@
+COMO CARREGAR:
+
+Dê o comando: LM <RETURN>
+Depois: R <RETURN>
+Aperte PLAY e aguarde.
+Aparecerá: PERIGO 5C 5C WAIT OK
+Tecle: 9880G <RETURN>
+O jogo entrará automaticamente.
+
+COMO JOGAR:
+
+Setas ou Joystick movimentam. Para cavar buracos ( com o pé da
+frente no chão) use a tecla "Q".Para matar os monstros ou tapar os
+buracos use a tecla "W". Boa Sorte!
+
+
+
+[]s
+Fabri
