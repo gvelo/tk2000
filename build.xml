@@ -12,7 +12,7 @@
 			</fileset>
 		</copy>
 
-		<javac deprecation="true" destdir="build" srcdir="src" target="1.6" >
+		<javac deprecation="true" destdir="build" srcdir="src" target="1.7" >
 		</javac>
 
 		<jar jarfile="TK2000.jar" basedir="build">
